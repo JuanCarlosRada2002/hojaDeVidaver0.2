@@ -1,0 +1,45 @@
+
+h1{
+    color:black;
+    text-align:center;
+}
+li{
+    color:black;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    margin: 00.4rem;
+}
+.edu{
+    color:black;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    border-spacing: 0.4rem;
+    margin: 0.4rem;
+}
+.his{
+    color:black;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    border-spacing: 0.4rem;
+}
+body{
+    display:block;
+    margin: 8px;
+}
+.foto{
+    height:auto;
+    max-width:100%;
+    border-spacing: 1rem;
+}
+.fa-check-circle{
+    color:blue;
+}
+.tabla {
+    color:black;
+    width: auto;
+    border-spacing: 1rem;
+    border-color: black;
+}
+
+.tabla td,.tabla th {
+    padding: 0rem;
+    text-align:left;
+    border-color: black;
+}
